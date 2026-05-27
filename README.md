@@ -1,15 +1,4 @@
 
----
-title: Article Summarizer
-emoji: 📰
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: 6.15.0
-app_file: app.py
-pinned: false
----
-
 # 📰 AI Article Summarizer
 
 An AI-powered article summarizer built with **Hugging Face Transformers** and **Gradio**.
